@@ -1,0 +1,11 @@
+_build/
+_install/
+build/
+cmake-build-*/
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+*.tar.gz
+*.zip
